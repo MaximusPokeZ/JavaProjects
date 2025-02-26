@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/Users/vladimirzaslavtsev/University/DACS_RPKS/JavaDirectorySize/src/main/java/ru/mai/lessons/rpks/impl/DirectorySizeChecker.java">
+</file>
+<file name="/Users/vladimirzaslavtsev/University/DACS_RPKS/JavaDirectorySize/src/main/java/ru/mai/lessons/rpks/IDirectorySizeChecker.java">
+</file>
+<file name="/Users/vladimirzaslavtsev/University/DACS_RPKS/JavaDirectorySize/src/main/java/ru/mai/lessons/rpks/Main.java">
+</file>
+<file name="/Users/vladimirzaslavtsev/University/DACS_RPKS/JavaDirectorySize/src/main/java/ru/mai/lessons/rpks/exception/DirectoryAccessException.java">
+</file>
+</checkstyle>
