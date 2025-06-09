@@ -34,5 +34,9 @@ mvn javafx:run
 
 ## Скриншоты
 
-![Главный интерфейс браузера](images/b)
-![Редактор HTML-кода](images/)
+![Главный интерфейс браузера](images/main.png)
+![Редактор HTML-кода1](images/html1.png)
+![Редактор HTML-кода2](images/html2.png)
+<img src="images/menu.png" alt="Меню" style="width:300px;"/>
+![История](images/history.png)
+
